@@ -1,0 +1,31 @@
+
+13 sty 2026 12:40:36: Otwarto bramke - 1111, Czasy klikan (ms): 165 508 1203
+: Otwarto bramke - 1111, Czasy klikan (ms): 165 508 1203
+
+13 sty 2026 12:42:00: Otwarto bramke - 1111, Czasy klikan (ms): 188 154 154
+: Otwarto bramke - 1111, Czasy klikan (ms): 188 154 154
+
+13 sty 2026 12:42:21: Otwarto bramke - 1111, Czasy klikan (ms): 221 176 409
+: Otwarto bramke - 1111, Czasy klikan (ms): 221 176 409
+
+13 sty 2026 12:42:34: Otwarto bramke - 1111, Czasy klikan (ms): 265 673 298
+: Otwarto bramke - 1111, Czasy klikan (ms): 265 673 298
+
+13 sty 2026 12:43:17: Otwarto bramke - 1111, Czasy klikan (ms): 309 287 320
+: Otwarto bramke - 1111, Czasy klikan (ms): 309 287 320
+
+13 sty 2026 12:43:53: Otwarto bramke - 1111, Czasy klikan (ms): 342 320 364
+: Otwarto bramke - 1111, Czasy klikan (ms): 342 320 364
+
+13 sty 2026 12:44:03: Otwarto bramke - 1111, Czasy klikan (ms): 231 188 221
+: Otwarto bramke - 1111, Czasy klikan (ms): 231 188 221
+
+13 sty 2026 12:44:12: Otwarto bramke - 1111, Czasy klikan (ms): 133 143 122
+: Otwarto bramke - 1111, Czasy klikan (ms): 133 143 122
+
+13 sty 2026 12:44:12: Wprowadzono bledny kod - 3333, Czasy klikan (ms): 187 154 144
+: Wprowadzono bledny kod - 3333, Czasy klikan (ms): 187 154 144
+
+13 sty 2026 12:44:28: Otwarto bramke - 1111, Czasy klikan (ms): 199 165 155
+: Otwarto bramke - 1111, Czasy klikan (ms): 199 165 155
+
